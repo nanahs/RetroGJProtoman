@@ -128,7 +128,7 @@ SpriteRenderer:
   m_ScaleInLightmap: 1
   m_SortingLayerID: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300014, guid: 25ce0705a6fed44e383580164d794013, type: 3}
+  m_Sprite: {fileID: 21300036, guid: 25ce0705a6fed44e383580164d794013, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
 --- !u!4 &180250251
 Transform:
@@ -143,8 +143,9 @@ Transform:
   - {fileID: 1003198078}
   - {fileID: 1302921086}
   - {fileID: 548977522}
+  - {fileID: 1049430165}
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 1
 --- !u!114 &180250252
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -157,8 +158,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   smallShot: {fileID: 100000, guid: ca1df4bf9daa34ee9ade7dc4c4b8300d, type: 2}
-  moveSpeed: 5
-  jumpForce: 5
+  moveSpeed: 4
+  jumpForce: 200
   facingRight: 1
   grounded: 0
   whatIsGround:
@@ -212,7 +213,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 548977521}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: .199340045, y: -.021455884, z: 0}
+  m_LocalPosition: {x: .199340045, y: .0381486416, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 180250251}
@@ -323,11 +324,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1049430160}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: .759740412, y: .978896379, z: -10}
+  m_LocalPosition: {x: -.0414373875, y: -.797329783, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 0
+  m_Father: {fileID: 180250251}
+  m_RootOrder: 3
 --- !u!1 &1302921085
 GameObject:
   m_ObjectHideFlags: 0
@@ -412,8 +413,8 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2098403121}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: .742759943, y: -.494657248, z: 0}
+  m_LocalPosition: {x: -.880366921, y: 1.15251565, z: 0}
   m_LocalScale: {x: 13.5249968, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 0

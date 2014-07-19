@@ -25,6 +25,9 @@ public class MoveableEntity : MonoBehaviour {
 
 	protected bool canShoot = true;
 	private bool shoot = false;
+	protected bool hasAttacked = false;
+	private float attackCoolDown = 2f;
+	private float attackTimer = 0f;
 
 	public virtual void Start() {
 
@@ -37,7 +40,14 @@ public class MoveableEntity : MonoBehaviour {
 
 	public virtual void Update() {
 
+		if(hasAttacked){
+			attackTimer += Time.deltaTime;
+		}
 
+		if(attackTimer > attackCoolDown){
+			hasAttacked = false;
+			attackTimer = 0f;
+		}
 	
 	}
 
@@ -78,6 +88,7 @@ public class MoveableEntity : MonoBehaviour {
 
 			shoot = false;
 			canShoot = true;
+			hasAttacked = true;
 
 		}
 		

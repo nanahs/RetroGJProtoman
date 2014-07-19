@@ -156,7 +156,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a27524297348e444a896e31403ff1410, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  smallShot: {fileID: 0}
+  smallShot: {fileID: 100000, guid: ca1df4bf9daa34ee9ade7dc4c4b8300d, type: 2}
   moveSpeed: 5
   jumpForce: 5
   facingRight: 1

@@ -31,6 +31,7 @@ public class MoveableEntity : MonoBehaviour {
 		// Setting up references.
 		groundCheck = transform.Find("GroundCheck");
 		ceilingCheck = transform.Find("CeilingCheck");
+		bulletSpawn = transform.Find("BulletSpawn");
 	
 	}
 
@@ -67,6 +68,16 @@ public class MoveableEntity : MonoBehaviour {
 		}
 
 		if(shoot){
+			GameObject temp = Instantiate(smallShot, bulletSpawn.transform.position, Quaternion.identity) as GameObject;
+
+			if(facingRight){
+				temp.GetComponent<Bullet>().fireRight();
+			}else{
+				temp.GetComponent<Bullet>().fireLeft();
+			}
+
+			shoot = false;
+			canShoot = true;
 
 		}
 		
@@ -120,6 +131,7 @@ public class MoveableEntity : MonoBehaviour {
 
 		if(canShoot == true){
 			shoot = true;
+			canShoot = false;
 		}
 
 	}

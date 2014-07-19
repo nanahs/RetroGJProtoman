@@ -9,7 +9,7 @@ public class PlayerController : MonoBehaviour {
 	
 	private float h;
 	private float v;
-	private bool facingRight = false;
+	private bool facingRight = true;
 	
 	private Transform groundCheck;
 	private Transform ceilingCheck;

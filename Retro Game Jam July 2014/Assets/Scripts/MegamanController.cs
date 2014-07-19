@@ -6,6 +6,10 @@ public class MegamanController : MoveableEntity{
 	private bool firstGroundHit = false;
 	private Animator anim;
 
+	private float runShootTimer = 0f;
+	private float runShootCooldown = .25f;
+	private bool shootTimer = false;
+
 	public override void Start(){
 
 		anim = this.GetComponent<Animator>();
@@ -19,15 +23,28 @@ public class MegamanController : MoveableEntity{
 			tryToJump();
 		}
 
-		if(Input.GetKeyDown(KeyCode.K)){
+		if(Input.GetKeyDown(KeyCode.K) && (shootTimer == false)){
 			tryToShoot();
+			shootTimer = true;
 		}
 
 		if(!grounded){
-			print (rigidbody2D.velocity.y);
+
 		}
 
 		base.Update();
+
+		if(shootTimer == true){
+			runShootTimer += Time.deltaTime;
+
+			if(runShootTimer > runShootCooldown){
+				shootTimer =  false;
+				runShootTimer = 0f;
+
+			}
+
+		}
+
 	
 	}
 
@@ -37,6 +54,21 @@ public class MegamanController : MoveableEntity{
 		setVertical(Input.GetAxis("Vertical"));
 
 		base.FixedUpdate();
+
+		if(shoot && !hasAttacked){
+			GameObject temp = Instantiate(smallShot, bulletSpawn.transform.position, Quaternion.identity) as GameObject;
+			
+			if(facingRight){
+				temp.GetComponent<Bullet>().fireRight();
+			}else{
+				temp.GetComponent<Bullet>().fireLeft();
+			}
+			
+			shoot = false;
+			canShoot = true;
+			hasAttacked = true;
+			
+		}
 
 		anim.SetBool("grounded", grounded);
 
@@ -75,5 +107,13 @@ public class MegamanController : MoveableEntity{
 
 		}
 
+
+
+	}
+
+	public void stopShooting(){
+		anim.SetBool("attacking", false);
+		hasAttacked = false;
+		Debug.Log("herro");
 	}
 }

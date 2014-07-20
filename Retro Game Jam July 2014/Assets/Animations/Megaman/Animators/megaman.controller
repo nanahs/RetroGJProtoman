@@ -1262,8 +1262,32 @@ Transition:
     m_ExitTime: 1
   - m_ConditionMode: 4
     m_ConditionEvent: moveSpeed
-    m_EventTreshold: -.100000001
+    m_EventTreshold: .100000001
     m_ExitTime: 1
+  m_Atomic: 1
+  m_Solo: 0
+  m_Mute: 0
+  m_CanTransitionToSelf: 0
+--- !u!1101 &110138852
+Transition:
+  serializedVersion: 2
+  m_ObjectHideFlags: 3
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_SrcState: {fileID: 110225775}
+  m_DstState: {fileID: 110289583}
+  m_TransitionDuration: 3.00000024
+  m_TransitionOffset: 0
+  m_Conditions:
+  - m_ConditionMode: 1
+    m_ConditionEvent: grounded
+    m_EventTreshold: 0
+    m_ExitTime: 0
+  - m_ConditionMode: 3
+    m_ConditionEvent: moveSpeed
+    m_EventTreshold: .100000001
+    m_ExitTime: 0
   m_Atomic: 1
   m_Solo: 0
   m_Mute: 0
@@ -3647,11 +3671,16 @@ StateMachine:
     data:
       first: {fileID: 110240427}
       second:
+<<<<<<< HEAD
       - {fileID: 110168237}
       - {fileID: 110176427}
       - {fileID: 110110900}
       - {fileID: 110121336}
       - {fileID: 110102504}
+=======
+      - {fileID: 110162625}
+      - {fileID: 110138852}
+>>>>>>> origin/master
     data:
       first: {fileID: 110252141}
       second:

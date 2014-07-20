@@ -14,7 +14,7 @@ public class MoveableEntity : MonoBehaviour {
 
 	private Transform ceilingCheck;
 	private Transform groundCheck;
-	private Transform bulletSpawn;
+	protected Transform bulletSpawn;
 	private float groundedRadius = .1f;
 	private float ceilingRadius = .1f;
 	public bool grounded = false;
@@ -24,10 +24,8 @@ public class MoveableEntity : MonoBehaviour {
 	private bool wantsToJump = false;
 
 	protected bool canShoot = true;
-	private bool shoot = false;
+	protected bool shoot = false;
 	protected bool hasAttacked = false;
-	private float attackCoolDown = 2f;
-	private float attackTimer = 0f;
 
 	public virtual void Start() {
 
@@ -40,15 +38,8 @@ public class MoveableEntity : MonoBehaviour {
 
 	public virtual void Update() {
 
-		if(hasAttacked){
-			attackTimer += Time.deltaTime;
-		}
-
-		if(attackTimer > attackCoolDown){
-			hasAttacked = false;
-			attackTimer = 0f;
-		}
 	
+
 	}
 
 	public virtual void FixedUpdate(){
@@ -77,20 +68,8 @@ public class MoveableEntity : MonoBehaviour {
 			jump = false;
 		}
 
-		if(shoot){
-			GameObject temp = Instantiate(smallShot, bulletSpawn.transform.position, Quaternion.identity) as GameObject;
 
-			if(facingRight){
-				temp.GetComponent<Bullet>().fireRight();
-			}else{
-				temp.GetComponent<Bullet>().fireLeft();
-			}
 
-			shoot = false;
-			canShoot = true;
-			hasAttacked = true;
-
-		}
 		
 	}
 	

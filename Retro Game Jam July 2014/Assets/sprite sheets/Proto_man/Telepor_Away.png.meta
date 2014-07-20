@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: f4a3f11c30ef73f4b8c6b843258dcba7
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Telepor_Away
+    21300002: Telepor_Away_0
+    21300004: Telepor_Away_1
+    21300006: Telepor_Away_10
+    21300008: Telepor_Away_11
+    21300010: Telepor_Away_12
+    21300012: Telepor_Away_16
+    21300014: Telepor_Away_6
+    21300016: Telepor_Away_7
+    21300018: Telepor_Away_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Telepor_Away_0
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 13
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Telepor_Away_1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 12
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Telepor_Away_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 14
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Telepor_Away_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 14
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Telepor_Away_12
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 14
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Telepor_Away_16
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 8
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Telepor_Away_6
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 6
+        width: 57
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Telepor_Away_7
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 12
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Telepor_Away_8
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 15
+        width: 6
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,6 +1,16 @@
 fileFormatVersion: 2
 guid: 55e54bd9196992d4ea94769219db30ac
 TextureImporter:
+  fileIDToRecycleName:
+    21300000: SNES - Mega Man 7 - Protoman_1
+    21300002: SNES - Mega Man 7 - Protoman_2
+    21300004: SNES - Mega Man 7 - Protoman_3
+    21300006: SNES - Mega Man 7 - Protoman_4
+    21300008: SNES - Mega Man 7 - Protoman_5
+    21300010: SNES - Mega Man 7 - Protoman_10
+    21300012: SNES - Mega Man 7 - Protoman_11
+    21300014: SNES - Mega Man 7 - Protoman_12
+    21300016: SNES - Mega Man 7 - Protoman_13
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0

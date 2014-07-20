@@ -1,0 +1,1797 @@
+fileFormatVersion: 2
+guid: ca318ebb0dd56734bae1769b9874d1e2
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Proto_Man_Spaced_Transparent
+    21300002: Proto_Man_Spaced_Transparent_0
+    21300004: Proto_Man_Spaced_Transparent_1
+    21300006: Proto_Man_Spaced_Transparent_2
+    21300008: Proto_Man_Spaced_Transparent_3
+    21300010: Proto_Man_Spaced_Transparent_4
+    21300012: Proto_Man_Spaced_Transparent_5
+    21300014: Proto_Man_Spaced_Transparent_6
+    21300016: Proto_Man_Spaced_Transparent_7
+    21300018: Proto_Man_Spaced_Transparent_8
+    21300020: Proto_Man_Spaced_Transparent_9
+    21300022: Proto_Man_Spaced_Transparent_10
+    21300024: Proto_Man_Spaced_Transparent_11
+    21300026: Proto_Man_Spaced_Transparent_12
+    21300028: Proto_Man_Spaced_Transparent_13
+    21300030: Proto_Man_Spaced_Transparent_14
+    21300032: Proto_Man_Spaced_Transparent_15
+    21300034: Proto_Man_Spaced_Transparent_16
+    21300036: Proto_Man_Spaced_Transparent_17
+    21300038: Proto_Man_Spaced_Transparent_18
+    21300040: Proto_Man_Spaced_Transparent_19
+    21300042: Proto_Man_Spaced_Transparent_20
+    21300044: Proto_Man_Spaced_Transparent_21
+    21300046: Proto_Man_Spaced_Transparent_22
+    21300048: Proto_Man_Spaced_Transparent_23
+    21300050: Proto_Man_Spaced_Transparent_24
+    21300052: Proto_Man_Spaced_Transparent_25
+    21300054: Proto_Man_Spaced_Transparent_26
+    21300056: Proto_Man_Spaced_Transparent_27
+    21300058: Proto_Man_Spaced_Transparent_28
+    21300060: Proto_Man_Spaced_Transparent_29
+    21300062: Proto_Man_Spaced_Transparent_30
+    21300064: Proto_Man_Spaced_Transparent_31
+    21300066: Proto_Man_Spaced_Transparent_32
+    21300068: Proto_Man_Spaced_Transparent_33
+    21300070: Proto_Man_Spaced_Transparent_34
+    21300072: Proto_Man_Spaced_Transparent_35
+    21300074: Proto_Man_Spaced_Transparent_36
+    21300076: Proto_Man_Spaced_Transparent_37
+    21300078: Proto_Man_Spaced_Transparent_38
+    21300080: Proto_Man_Spaced_Transparent_39
+    21300082: Proto_Man_Spaced_Transparent_40
+    21300084: Proto_Man_Spaced_Transparent_41
+    21300086: Proto_Man_Spaced_Transparent_42
+    21300088: Proto_Man_Spaced_Transparent_43
+    21300090: Proto_Man_Spaced_Transparent_44
+    21300092: Proto_Man_Spaced_Transparent_45
+    21300094: Proto_Man_Spaced_Transparent_46
+    21300096: Proto_Man_Spaced_Transparent_47
+    21300098: Proto_Man_Spaced_Transparent_48
+    21300100: Proto_Man_Spaced_Run1
+    21300102: Proto_Man_Spaced_Run2
+    21300104: Proto_Man_Spaced_Run3
+    21300106: Proto_Man_Spaced_Run4
+    21300108: Proto_Man_Spaced_Run5
+    21300110: Proto_Man_Spaced_Run6
+    21300112: Proto_Man_Spaced_Run67
+    21300114: Proto_Man_Spaced_Run8
+    21300116: Proto_Man_Spaced_Run9
+    21300118: Proto_Man_Spaced_Run10
+    21300120: Proto_Man_Spaced_Run11
+    21300122: Proto_Man_Spaced_Run12
+    21300124: Proto_Man_Spaced_Run13
+    21300126: Proto_Man_Spaced_Run14
+    21300128: Proto_Man_Spaced_Run15
+    21300130: Proto_Man_Spaced_Run16
+    21300132: Proto_Man_Spaced_Transparent_66
+    21300134: Proto_Man_Spaced_Transparent_67
+    21300136: Proto_Man_Spaced_Transparent_68
+    21300138: Proto_Man_Spaced_Transparent_69
+    21300140: Proto_Man_Spaced_Transparent_70
+    21300142: Proto_Man_Spaced_Transparent_71
+    21300144: Proto_Man_Spaced_Transparent_72
+    21300146: Proto_Man_Spaced_Transparent_73
+    21300148: Proto_Man_Spaced_Transparent_74
+    21300150: Proto_Man_Spaced_Transparent_75
+    21300152: Proto_Man_Spaced_Transparent_76
+    21300154: Proto_Man_Spaced_Transparent_77
+    21300156: Proto_Man_Spaced_Transparent_78
+    21300158: Proto_Man_Spaced_Transparent_79
+    21300160: Proto_Man_Spaced_Transparent_80
+    21300162: Proto_Man_Spaced_Transparent_81
+    21300164: Proto_Man_Spaced_Transparent_82
+    21300166: Proto_Man_Spaced_Transparent_83
+    21300168: Proto_Man_Spaced_Transparent_84
+    21300170: Proto_Man_Spaced_Transparent_85
+    21300172: Proto_Man_Spaced_Transparent_86
+    21300174: Proto_Man_Spaced_Transparent_87
+    21300176: Proto_Man_Spaced_Transparent_88
+    21300178: Proto_Man_Spaced_Transparent_89
+    21300180: Proto_Man_Spaced_Transparent_90
+    21300182: Proto_Man_Spaced_Transparent_91
+    21300184: Proto_Man_Spaced_Transparent_92
+    21300186: Proto_Man_Spaced_Transparent_93
+    21300188: Proto_Man_Spaced_Transparent_94
+    21300190: Proto_Man_Spaced_Transparent_95
+    21300192: Proto_Man_Spaced_Transparent_96
+    21300194: Proto_Man_Spaced_Transparent_97
+    21300196: Proto_Man_Spaced_Transparent_98
+    21300198: Proto_Man_Spaced_Transparent_99
+    21300200: Proto_Man_Spaced_Transparent_100
+    21300202: Proto_Man_Spaced_Transparent_101
+    21300204: Proto_Man_Spaced_Transparent_102
+    21300206: Proto_Man_Spaced_Transparent_103
+    21300208: Proto_Man_Spaced_Transparent_104
+    21300210: Proto_Man_Spaced_Transparent_105
+    21300212: Proto_Man_Spaced_Transparent_106
+    21300214: Proto_Man_Spaced_Transparent_107
+    21300216: Proto_Man_Spaced_Transparent_108
+    21300218: Proto_Man_Spaced_Transparent_109
+    21300220: Proto_Man_Spaced_Transparent_110
+    21300222: Proto_Man_Spaced_Transparent_111
+    21300224: Proto_Man_Spaced_Transparent_112
+    21300226: Proto_Man_Spaced_Transparent_113
+    21300228: Proto_Man_Spaced_Transparent_114
+    21300230: Proto_Man_Spaced_Transparent_115
+    21300232: Proto_Man_Spaced_Transparent_116
+    21300234: Proto_Man_Spaced_Transparent_117
+    21300236: Proto_Man_Spaced_Transparent_118
+    21300238: Proto_Man_Spaced_Transparent_119
+    21300240: Proto_Man_Spaced_Transparent_120
+    21300242: Proto_Man_Spaced_Transparent_121
+    21300244: Proto_Man_Spaced_Transparent_122
+    21300246: Proto_Man_Spaced_Transparent_123
+    21300248: Proto_Man_Spaced_Transparent_124
+    21300250: Proto_Man_Spaced_Transparent_125
+    21300252: Proto_Man_Spaced_Transparent_126
+    21300254: Proto_Man_Spaced_Transparent_127
+    21300256: Proto_Man_Spaced_Transparent_128
+    21300258: Proto_Man_Spaced_Transparent_129
+    21300260: Proto_Man_Spaced_Transparent_130
+    21300262: Proto_Man_Spaced_Transparent_131
+    21300264: Proto_Man_Spaced_Transparent_132
+    21300266: Proto_Man_Spaced_Transparent_133
+    21300268: Proto_Man_Spaced_Transparent_134
+    21300270: Proto_Man_Spaced_Transparent_135
+    21300272: Proto_Man_Spaced_Transparent_136
+    21300274: Proto_Man_Spaced_Transparent_137
+    21300276: Proto_Man_Spaced_Transparent_138
+    21300278: Proto_Man_Spaced_Transparent_139
+    21300280: Proto_Man_Spaced_Transparent_140
+    21300282: Proto_Man_Spaced_Transparent_143
+    21300284: Proto_Man_Spaced_Transparent_144
+    21300286: Proto_Man_Spaced_Transparent_149
+    21300288: Proto_Man_Spaced_Transparent_150
+    21300290: Proto_Man_Spaced_Transparent_158
+    21300292: Proto_Man_Spaced_Transparent_159
+    21300294: Proto_Man_Spaced_Transparent_160
+    21300296: Proto_Man_Spaced_Transparent_161
+    21300298: Proto_Man_Spaced_Transparent_165
+    21300300: Proto_Man_Spaced_Transparent_166
+    21300302: Proto_Man_Spaced_Transparent_167
+    21300304: Proto_Man_Spaced_Transparent_169
+    21300306: Proto_Man_Spaced_Transparent_170
+    21300308: Proto_Man_Spaced_Transparent_171
+    21300310: Proto_Man_Spaced_Transparent_172
+    21300312: Proto_Man_Spaced_Transparent_173
+    21300314: Proto_Man_Spaced_Transparent_174
+    21300316: Proto_Man_Spaced_Transparent_175
+    21300318: Proto_Man_Spaced_Transparent_176
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Proto_Man_Spaced_Transparent_0
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1108
+        width: 6
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1109
+        width: 21
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_2
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1108
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_3
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1098
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_4
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1093
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1093
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_6
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1094
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_7
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1098
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_8
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1033
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_9
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1035
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_10
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1034
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_11
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1034
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1034
+        width: 21
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_13
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1034
+        width: 20
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_14
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1034
+        width: 68
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_15
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1034
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_16
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1035
+        width: 58
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_17
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 982
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_18
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 982
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_19
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 982
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_20
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 982
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_21
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 982
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_22
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 924
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_23
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 922
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_24
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 920
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_25
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 917
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_26
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 917
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_27
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 919
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_28
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 918
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_29
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 917
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_30
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 917
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_31
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 918
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_32
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 922
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_33
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 860
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_34
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 784
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_35
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 860
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_36
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 782
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_37
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 860
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_38
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 860
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_39
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 861
+        width: 61
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_40
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 780
+        width: 48
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_41
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 860
+        width: 58
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_42
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 859
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_43
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 859
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_44
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 784
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_45
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 779
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_46
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 777
+        width: 55
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_47
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 784
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_48
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 784
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Run1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 728
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Run2
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 728
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Run3
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 729
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Run4
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 730
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Run5
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 730
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Run6
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 728
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Run67
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 729
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Run8
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 724
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Run9
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 673
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Run10
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 674
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Run11
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 673
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Run12
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 674
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Run13
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 672
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Run14
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 672
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Run15
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 672
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Run16
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 672
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_66
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 619
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_67
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 618
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_68
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 618
+        width: 55
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_69
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 633
+        width: 61
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_70
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 625
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_71
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 623
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_72
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 624
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_73
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 618
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_74
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 560
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_75
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 560
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_76
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 557
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_77
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 557
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_78
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 554
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_79
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 554
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_80
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 553
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_81
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 553
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_82
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 551
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_83
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 552
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_84
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 552
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_85
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 552
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_86
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 492
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_87
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 492
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_88
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 491
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_89
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 491
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_90
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 490
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_91
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 490
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_92
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 489
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_93
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 489
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_94
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 492
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_95
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 492
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_96
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 441
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_97
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 439
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_98
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 438
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_99
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 438
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_100
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 439
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_101
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 439
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_102
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 440
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_103
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 440
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_104
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 388
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_105
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 388
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_106
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 387
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_107
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 387
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_108
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 387
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_109
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 387
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_110
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 387
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_111
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 387
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_112
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 336
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_113
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 336
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_114
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 337
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_115
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 337
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_116
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 336
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_117
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 336
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_118
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 336
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_119
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 336
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_120
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 284
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_121
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 284
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_122
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 284
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_123
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 284
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_124
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 284
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_125
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 284
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_126
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 284
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_127
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 284
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_128
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 219
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_129
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 219
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_130
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 215
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_131
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 220
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_132
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 220
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_133
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 220
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_134
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 220
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_135
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 220
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_136
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 220
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_137
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 219
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_138
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 156
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_139
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 153
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_140
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 154
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_143
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 160
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_144
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 155
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_149
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 74
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_150
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 73
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_158
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 76
+        width: 6
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_159
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 75
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_160
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 75
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_161
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 75
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_165
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 69
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_166
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 67
+        width: 56
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_167
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 73
+        width: 57
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_169
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 17
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_170
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 17
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_171
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 17
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_172
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 17
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_173
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 17
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_174
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 17
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_175
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 17
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proto_Man_Spaced_Transparent_176
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 17
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

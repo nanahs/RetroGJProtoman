@@ -1,6 +1,8 @@
 fileFormatVersion: 2
 guid: f267070cd81494bfa95d761be3165422
 TextureImporter:
+  fileIDToRecycleName:
+    21300000: shadow man level original
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0

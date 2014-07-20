@@ -1,6 +1,8 @@
 fileFormatVersion: 2
 guid: df2419bb2f6474a1c916de565aac35ec
 TextureImporter:
+  fileIDToRecycleName:
+    21300000: MM7 Slash Claw
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -24,9 +26,9 @@ TextureImporter:
   maxTextureSize: 1024
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 1
     mipBias: -1
-    wrapMode: -1
+    wrapMode: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50

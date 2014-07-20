@@ -1,6 +1,8 @@
 fileFormatVersion: 2
 guid: b57b5c927bd0a4f2d8a939c300b3d9a0
 TextureImporter:
+  fileIDToRecycleName:
+    21300000: Blue_Background_Tall_Wall_Light_1
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -24,9 +26,9 @@ TextureImporter:
   maxTextureSize: 1024
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 1
     mipBias: -1
-    wrapMode: -1
+    wrapMode: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50

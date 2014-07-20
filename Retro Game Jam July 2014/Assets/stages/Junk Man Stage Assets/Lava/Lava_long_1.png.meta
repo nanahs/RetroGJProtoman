@@ -1,6 +1,8 @@
 fileFormatVersion: 2
 guid: bc8cfa7ab513e4f16b2ab4ca4c3c5679
 TextureImporter:
+  fileIDToRecycleName:
+    21300000: Lava_long_1
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -24,9 +26,9 @@ TextureImporter:
   maxTextureSize: 1024
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 1
     mipBias: -1
-    wrapMode: -1
+    wrapMode: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50

@@ -1,6 +1,20 @@
 fileFormatVersion: 2
 guid: 2caa8bb819cdf4883a328bdd840ad471
 TextureImporter:
+  fileIDToRecycleName:
+    21300000: megaman buster_0
+    21300002: megaman buster_1
+    21300004: megaman buster_2
+    21300006: megaman buster_3
+    21300008: megaman buster_4
+    21300010: megaman buster_5
+    21300012: megaman buster_6
+    21300014: megaman buster_7
+    21300016: megaman buster_8
+    21300018: megaman buster_9
+    21300020: megaman buster_10
+    21300022: megaman buster_11
+    21300024: megaman buster_12
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0

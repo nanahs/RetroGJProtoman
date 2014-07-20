@@ -1,6 +1,8 @@
 fileFormatVersion: 2
 guid: bb514978acbff4c48897f8aa7b83d780
 TextureImporter:
+  fileIDToRecycleName:
+    21300000: shadeenemysheet (1)
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -24,9 +26,9 @@ TextureImporter:
   maxTextureSize: 1024
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 1
     mipBias: -1
-    wrapMode: -1
+    wrapMode: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
